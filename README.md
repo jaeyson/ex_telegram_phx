@@ -1,5 +1,7 @@
 # ExTelegramPhx
 
+**TODO: This library is being parked at version 0.1.0. This is just an empty Phoenix boilerplate. You'll see some changes once this version starts at v0.3.0**
+
 To start your Phoenix server:
 
   * Run `mix setup` to install and setup dependencies
